@@ -6,7 +6,7 @@ Web Developer
 
 I'm a front-end developer focused on building clean, responsive, and pixel-perfect websites from design files. I work with HTML5, CSS3, SCSS, and BEM methodology to create well-structured, maintainable layouts. I pay attention to details, care about code quality, and enjoy turning designs into functional websites that look great on any device. Always learning, improving, and working toward better results.
 
-* 🌍  I'm based in Україна
+* 🌍  I'm based in Ukraine
 * 🖥️  See my portfolio at [MyPortfolio](http://www.upwork.com/freelancers/~01e957ae8c98e8f553)
 * ✉️  You can contact me at [urabezeluk@gmail.com](mailto:urabezeluk@gmail.com)
 * 🚀  I'm currently working on [Freelance](http://www.upwork.com/freelancers/~01e957ae8c98e8f553)
